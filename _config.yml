@@ -1,9 +1,9 @@
 # Site settings
-title: Requirements Engineering Kai Bakker en Geert Kapteijns
+title: Requirements Engineering
 email: ghkapteijns@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Requirements engineering 2014 Kai Bakker en Geert Kapteijns.
-baseurl: "/requirements_engineering/" # the subpath of your site, e.g. /blog/
+baseurl: "/requirements_engineering" # the subpath of your site, e.g. /blog/
 url: "http://kapteijns.org"
 twitter_username: jekyllrb
 github_username:  jekyll
